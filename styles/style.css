@@ -67,13 +67,18 @@ input {
 .margin20px {
   margin: 0 26px;
 }
+#logo {
+  width: 60%;
+}
 .margintop20px {
   padding-top: 40px;
 }
 .paddingbottom60px {
   padding-bottom: 60px;
 }
-
+.alingleft {
+  text-align: left;
+}
 .centertext {
   text-align: center;
 }
